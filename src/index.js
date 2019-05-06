@@ -1,6 +1,3 @@
-import Paddle from "/src/paddle";
-import InputHandler from "/src/input";
-import Ball from "/src/ball";
 import Game from "/src/game";
 
 let canvas = document.getElementById("gameScreen");
